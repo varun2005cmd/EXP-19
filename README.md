@@ -140,7 +140,9 @@ int main() {
 ~~~
 
 ## Code output 
-![](https://github.com/Sundar13905/queue/blob/main/Exp_19_out.png)
+
+![image](https://github.com/user-attachments/assets/350b4ea5-ab83-4b26-8b1d-9e2a4230d023)
+
 
 ## Conclusion
 We leant how to implement queue in C++
